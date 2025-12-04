@@ -1,0 +1,62 @@
+# Citation metadata for "A Harmonic Field Model of Consciousness in the Human Brain"
+# Visit https://citation-file-format.github.io for more information.
+
+cff-version: 1.2.0
+title: >-
+  A Harmonic Field Model of Consciousness in the Human Brain
+message: >-
+  If you use this work, please cite it as follows.
+type: article
+authors:
+  - family-names: Smart
+    given-names: Lee
+    email: contact@vibrationalfielddynamics.org
+    affiliation: Vibrational Field Dynamics Institute
+identifiers:
+  - type: url
+    value: 'https://vibrationalfielddynamics.org'
+    description: Vibrational Field Dynamics Institute website
+  - type: doi
+    value: ''
+    description: DOI (to be assigned upon publication)
+# TODO: Update repository-code once final GitHub URL is established
+repository-code: 'https://github.com/vfd-org/harmonic-field-consciousness'
+url: 'https://vibrationalfielddynamics.org'
+abstract: >-
+  This paper proposes a candidate harmonic field model of consciousness
+  integrating Penrose-Hameroff Orchestrated Objective Reduction (Orch-OR)
+  with Vibrational Field Dynamics (VFD). Building on Penrose's gravitational
+  OR proposal, the framework introduces φ-resonance shells—concentric
+  harmonic structures with golden ratio scaling—spanning from microtubule
+  eigenmodes to cortical dynamics. A dual transition criterion requires
+  both Penrose's gravitational threshold and VFD coherence boundary
+  conditions. Seven testable predictions define an experimental programme.
+  This is a candidate theory subject to empirical validation.
+keywords:
+  - consciousness
+  - Orch-OR
+  - orchestrated objective reduction
+  - Vibrational Field Dynamics
+  - microtubules
+  - Penrose
+  - quantum biology
+  - field theory
+  - harmonic field model
+  - golden ratio scaling
+  - phi-resonance shells
+  - dual transition criterion
+  - bidirectional causation
+license: MIT
+version: '1.0.0'
+date-released: '2025-01-01'
+preferred-citation:
+  type: article
+  title: >-
+    A Harmonic Field Model of Consciousness in the Human Brain
+  authors:
+    - family-names: Smart
+      given-names: Lee
+      affiliation: Vibrational Field Dynamics Institute
+  year: 2025
+  journal: Vibrational Field Dynamics Institute Working Papers
+  url: 'https://vibrationalfielddynamics.org'
